@@ -26,3 +26,6 @@ router.get('/', (req, resp) => {
 })
 
 app.use(router)
+
+
+error e de eejcucion
